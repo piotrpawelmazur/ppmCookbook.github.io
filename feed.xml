@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ppmCookbook</title>
+    <description>This is my cookbook.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Fasola po Bretońsku</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;2 parówki&lt;/li&gt;
+  &lt;li&gt;1 cebula (duża)&lt;/li&gt;
+  &lt;li&gt;2 puszki “White Kidney Beans”&lt;/li&gt;
+  &lt;li&gt;1 tbsp pasta pomidorowa&lt;/li&gt;
+  &lt;li&gt;sól &amp;amp; pieprz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pokroić cebulę w kostkę. Udusić na złoty kolor.
+Parówki pokroić wzdłuż &amp;amp; half. Podsmażyć. Dodać do cebuli.
+Dodać pastę pomidorową. Wymieszać.&lt;/p&gt;
+
+&lt;p&gt;Dodać fasolę &amp;amp; część płynu po fasoli &amp;amp; dopełnić wodą. Wymieszać. Zagotować.
+Gotować na wolnym ogniu ok. 20 min.&lt;/p&gt;
+
+&lt;p&gt;Dodać sól, pieprz &amp;amp; przyprawy do smaku.&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;p&gt;Serving: with Garlic Bread.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 21 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/12/21/fasola-po-bretonsku/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/21/fasola-po-bretonsku/</guid>
+      </item>
+    
+      <item>
+        <title>Poultry Dish</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1 loaf French or Italian bread&lt;/li&gt;
+  &lt;li&gt;4 tbsp unsalted butter. softened&lt;/li&gt;
+  &lt;li&gt;2 garlic cloves (small)&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preheat oven to 400 degrees with rack in the top position. Slice bread in half horizontally.
+In a small bowl, mix together butter, garlic, and salt. Spread seasoned butter on a cut side of both bread halves.&lt;/p&gt;
+
+&lt;p&gt;Reclose halves to form a sandwich, and wrap in aluminium foil. Bake 10 minutes. Switch oven settings to broil.
+Remove bread from oven, and remove foil.&lt;/p&gt;
+
+&lt;p&gt;Lay bread halves, cut side up, on a baking sheet. Place under broiler untill butter bubbles and edges of bread start
+to turn brown, about 30 seconds. Let cool slightly, then slice into serving pieces.&lt;/p&gt;
+
+&lt;p&gt;Bake: 400 F / 15 min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/12/20/poultry-dish/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/20/poultry-dish/</guid>
+      </item>
+    
+      <item>
+        <title>Eggs Dish</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1 loaf French or Italian bread&lt;/li&gt;
+  &lt;li&gt;4 tbsp unsalted butter. softened&lt;/li&gt;
+  &lt;li&gt;2 garlic cloves (small)&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preheat oven to 400 degrees with rack in the top position. Slice bread in half horizontally.
+In a small bowl, mix together butter, garlic, and salt. Spread seasoned butter on a cut side of both bread halves.&lt;/p&gt;
+
+&lt;p&gt;Reclose halves to form a sandwich, and wrap in aluminium foil. Bake 10 minutes. Switch oven settings to broil.
+Remove bread from oven, and remove foil.&lt;/p&gt;
+
+&lt;p&gt;Lay bread halves, cut side up, on a baking sheet. Place under broiler untill butter bubbles and edges of bread start
+to turn brown, about 30 seconds. Let cool slightly, then slice into serving pieces.&lt;/p&gt;
+
+&lt;p&gt;Bake: 400 F / 15 min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/12/20/eggs-dish/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/20/eggs-dish/</guid>
+      </item>
+    
+      <item>
+        <title>Garlic Bread Two</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1 loaf French or Italian bread&lt;/li&gt;
+  &lt;li&gt;4 tbsp unsalted butter. softened&lt;/li&gt;
+  &lt;li&gt;2 garlic cloves (small)&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preheat oven to 400 degrees with rack in the top position. Slice bread in half horizontally.
+In a small bowl, mix together butter, garlic, and salt. Spread seasoned butter on a cut side of both bread halves.&lt;/p&gt;
+
+&lt;p&gt;Reclose halves to form a sandwich, and wrap in aluminium foil. Bake 10 minutes. Switch oven settings to broil.
+Remove bread from oven, and remove foil.&lt;/p&gt;
+
+&lt;p&gt;Lay bread halves, cut side up, on a baking sheet. Place under broiler untill butter bubbles and edges of bread start
+to turn brown, about 30 seconds. Let cool slightly, then slice into serving pieces.&lt;/p&gt;
+
+&lt;p&gt;Bake: 400 F / 15 min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/12/20/garlic-bread-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/20/garlic-bread-2/</guid>
+      </item>
+    
+      <item>
+        <title>Garlic Bread One</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1 loaf French or Italian bread&lt;/li&gt;
+  &lt;li&gt;4 tbsp unsalted butter. softened&lt;/li&gt;
+  &lt;li&gt;2 garlic cloves (small)&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preheat oven to 400 degrees with rack in the top position. Slice bread in half horizontally.
+In a small bowl, mix together butter, garlic, and salt. Spread seasoned butter on a cut side of both bread halves.&lt;/p&gt;
+
+&lt;p&gt;Reclose halves to form a sandwich, and wrap in aluminium foil. Bake 10 minutes. Switch oven settings to broil.
+Remove bread from oven, and remove foil.&lt;/p&gt;
+
+&lt;p&gt;Lay bread halves, cut side up, on a baking sheet. Place under broiler untill butter bubbles and edges of bread start
+to turn brown, about 30 seconds. Let cool slightly, then slice into serving pieces.&lt;/p&gt;
+
+&lt;p&gt;Bake: 400 F / 15 min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2020/12/20/garlic-bread-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/20/garlic-bread-1/</guid>
+      </item>
+    
+      <item>
+        <title>Banana Cake</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;3/4 cup butter&lt;/li&gt;
+  &lt;li&gt;3/4 cup sugar&lt;/li&gt;
+  &lt;li&gt;4 eggs&lt;/li&gt;
+  &lt;li&gt;2 cups flour&lt;/li&gt;
+  &lt;li&gt;2 tsp baking soda&lt;/li&gt;
+  &lt;li&gt;2 tsp baking powder&lt;/li&gt;
+  &lt;li&gt;4 mashed bananas&lt;/li&gt;
+  &lt;li&gt;1 cup walnuts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sift flour with baking powder &amp;amp; baking soda.
+Cream butter and sugar.
+Add eggs (one by one) &amp;amp; cream to fluffy butter.
+Combine flour, bananas, walnuts.&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/04/01/banana-cake/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/01/banana-cake/</guid>
+      </item>
+    
+      <item>
+        <title>Banana Cake - Half</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1/3 cup butter&lt;/li&gt;
+  &lt;li&gt;1/3 cup sugar&lt;/li&gt;
+  &lt;li&gt;2 eggs&lt;/li&gt;
+  &lt;li&gt;1 cups flour&lt;/li&gt;
+  &lt;li&gt;1 tsp baking soda&lt;/li&gt;
+  &lt;li&gt;1 tsp baking powder&lt;/li&gt;
+  &lt;li&gt;2 mashed bananas&lt;/li&gt;
+  &lt;li&gt;1/2 cup walnuts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sift flour with baking powder &amp;amp; baking soda.
+Cream butter and sugar.
+Add eggs (one by one) &amp;amp; cream to fluffy butter.
+Combine flour, bananas, walnuts.&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/04/01/banana-cake-half/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/01/banana-cake-half/</guid>
+      </item>
+    
+      <item>
+        <title>Rye Bread - German</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;b&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;d&lt;/li&gt;
+  &lt;li&gt;e&lt;/li&gt;
+  &lt;li&gt;f&lt;/li&gt;
+  &lt;li&gt;g&lt;/li&gt;
+  &lt;li&gt;h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Step 1
+Step 2&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2014/12/20/rye-german-bread/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/20/rye-german-bread/</guid>
+      </item>
+    
+      <item>
+        <title>Cocktail One</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;b&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;d&lt;/li&gt;
+  &lt;li&gt;e&lt;/li&gt;
+  &lt;li&gt;f&lt;/li&gt;
+  &lt;li&gt;g&lt;/li&gt;
+  &lt;li&gt;h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Step 1
+Step 2&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2014/12/20/cocktail-one/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/20/cocktail-one/</guid>
+      </item>
+    
+      <item>
+        <title>Sauce One</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;b&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;d&lt;/li&gt;
+  &lt;li&gt;e&lt;/li&gt;
+  &lt;li&gt;f&lt;/li&gt;
+  &lt;li&gt;g&lt;/li&gt;
+  &lt;li&gt;h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Step 1
+Step 2&lt;/p&gt;
+
+&lt;p&gt;Bake: 350F / 50min&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;circle-button&quot;&gt;
+      &lt;div class=&quot;top-circle&quot; data-sr-id=&quot;80&quot; style=&quot;; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; &quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/images/logos/top.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  $(document).ready(function () {
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() &gt; 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.circle-button').click(function () {
+        $(&quot;html, body&quot;).animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+    $('.print-button').click(function () {
+        console.log(&quot;hey&quot;);
+        window.print();
+        return false;
+    });
+});
+
+  &lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2014/12/20/sauce-one/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/20/sauce-one/</guid>
+      </item>
+    
+  </channel>
+</rss>
